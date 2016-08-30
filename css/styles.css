@@ -1,0 +1,106 @@
+body, html {
+  background: rgb(52, 172, 226);
+}
+
+html {
+	overflow: scroll;
+}
+
+.placeholder {
+	width: 100px;
+	height: 500px;
+}
+
+.dred {
+	height: 100%;
+	background-color: red;
+}
+
+.dblue {
+	height: 20px;
+	background-color: blue;
+}
+
+.navbar-dm {
+	background: rgb(52, 172, 226);
+	border: 0;
+	margin: 0;
+}
+
+.jumbotron-dm {
+	margin-top: 65px;
+	background-color: #FFA366;
+}
+
+.jumbotron-img {
+	height: auto;
+	width: 100%;
+	display: block;
+}
+
+.jumbo-text {
+	font-family: 'Oswald', sans-serif;
+	font-size: 40px !important; 
+	height: 100%;
+	padding: auto;
+}
+
+.jumbo-text-container {
+	height: 100%;
+	margin: auto;
+	align-self: center;
+}
+
+.jumbo-container {
+	display: flex;
+	justify-content: center;
+}
+
+.navbar-img {
+	height: 55px;
+	padding-top: 7.5px;
+}
+
+.modal-header-dm {
+	border: none;
+}
+
+.modal-body-dm {
+	border: none;
+}
+
+.modal-footer-dm {
+	border: none;
+}
+
+.navbar-icon {
+	font-size: 40px;
+	padding-top: 10px;
+	background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+
+.navbar-logo {
+	position: fixed;
+	left: 0;
+	top: 0;
+	height: 48px;
+	margin: 12px;
+	padding-top: 6px;
+	padding-left: 6px;
+}
+
+.navbar-title {
+	padding-top: 5px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 35px;
+}
+
+.modal-dm {
+	background-color: #FF7A66;
+	width: 100%;
+}
